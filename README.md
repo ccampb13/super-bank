@@ -1,10 +1,3 @@
-# client-template
+# Super Bank
 
-Serves as a template for client JavaScript applications.
-
-It uses:
-* Jade
-* Less
-* Grunt
-* JSHint
-* Node.js
+This app is a bank that manages deposits, withdraws while charging fees for negative balances
